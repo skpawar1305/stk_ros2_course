@@ -22,6 +22,8 @@ Later, the course will be expanded to include **Autonomous SuperTuxKart with Imi
 
     wsl --install
 
+and
+
 
     wsl --set-default-version 2
 
@@ -55,14 +57,24 @@ Replace <your_username> and <your_password> with your actual username and passwo
 
 *Each session will last 2-3 hours.*
 
-1. **Introduction and Setup**  
-   Learn the basics of Python programming, Linux terminal usage, and ROS2. We will also guide you through the installation of all required tools.
+1. **Introduction and Setup**
+
+Learn the basics of Python programming, Linux terminal usage, and ROS2. We will also guide you through the installation of all required tools.
+
    - Hands-on session in: ros2_basics.ipynb
 
-2. **Turtlesim with ROS2**  
-   Explore the Turtlesim package in ROS2, and work on creating various shapes using provided hints.
+2. **Turtlesim with ROS2**
+
+![alt text](images/turtlesim.png)
+
+Explore the Turtlesim package in ROS2, and work on creating various shapes using provided hints.
+
    - Hands-on session in: ros2_turtlesim.ipynb
 
-3. **Autonomous SuperTuxKart with ROS2 and OpenCV**  
-   Use ROS2 and OpenCV to programmatically control SuperTuxKart. Compete with your peers for a fun and exciting learning experience.
+3. **Autonomous SuperTuxKart with ROS2 and OpenCV**
+
+![alt text](images/stk.png)
+
+Use ROS2 and OpenCV to programmatically control SuperTuxKart. Compete with your peers for a fun and exciting learning experience.
+
    - Hands-on session in: ros2_stk.ipynb
